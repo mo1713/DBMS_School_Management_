@@ -14,24 +14,23 @@ The platform has 4 main pages:
 
 ![homepage](image1.jpg)
 
-Log in page: 
-
-![login](image4.png)
+**Log in page:** 
 
 The user can log in every account created in SQL., for full access to the data, we log in in admin user
 
-**Dashboard page:** 
+![login](image4.png)
 
-![dashboard](image2.jpg)
+**Dashboard page:** 
 
 For reporting the data of School and classes
 
+![dashboard](image2.jpg)
 
 **Management page:**
 
-![manegement page](image3.jpg)
-
 For manage the information of Classes, Students, Teachers and Grades
+
+![manegement page](image3.jpg)
 
 **Backup & Recovery:**
 
