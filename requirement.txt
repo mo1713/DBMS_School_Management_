@@ -1,0 +1,8 @@
+streamlit
+streamlit-extras
+pandas
+python-dotenv
+sqlalchemy
+reportlab
+geopy
+streamlit-option-menu
